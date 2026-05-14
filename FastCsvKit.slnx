@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="FastCsvKit/FastCsvKit.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="FastCsvKit.Tests/FastCsvKit.Tests.csproj" Id="f4c636e0-9cd4-4263-a0d9-7662bd65317f" />
+  </Folder>
+</Solution>
